@@ -10,7 +10,7 @@
 # Install server dependencies
 npm install
 
-# Run both Express
+# Run Express server
 npm run start
 
 ```
