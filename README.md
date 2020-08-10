@@ -1,6 +1,6 @@
-# Profilizer
+# AIA_backend
 
-> An amazing web application for creating profile and start social networking
+> A backend server for aia mern made or built by expressjs
 
 
 ## Quick Start
@@ -10,12 +10,8 @@
 # Install server dependencies
 npm install
 
-# Install client dependencies
-cd client
-npm install
-
-# Run both Express & React from root
-npm run dev
+# Run both Express
+npm run start
 
 ```
 
